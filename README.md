@@ -48,6 +48,8 @@ An interactive spatial SQL learning environment for hands-on exploration of geos
 
 * **Repository:** [https://github.com/rayford295/SpatialQueryLab](https://github.com/rayford295/SpatialQueryLab)
 * **Category:** Spatial Computing / Spatial Databases
+- **Institution:** Texas A&M University 
+- **Instructor:** Yifan Yang 
 
 **Core Topics**
 
@@ -78,7 +80,7 @@ An advanced, reading- and lab-driven course introducing GeoAI concepts, methods,
 
 - **Repository / Course Page:** https://github.com/jakobzhao/geog428  
 - **Institution:** University of Washington  
-- **Instructor:** Bo Zhao  
+- **Instructor:** Dr. Bo Zhao  
 - **Category:** GeoAI / Courses / External  
 
 **Core Topics**
