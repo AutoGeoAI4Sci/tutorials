@@ -73,10 +73,33 @@ An interactive spatial SQL learning environment for hands-on exploration of geos
 
 ### 🤖 GeoAI
 
-*(To be expanded)*
+#### **Geospatial Artificial Intelligence (GEOG495/428)**  
+An advanced, reading- and lab-driven course introducing GeoAI concepts, methods, and applications at the intersection of geospatial science and artificial intelligence.
+
+- **Repository / Course Page:** https://github.com/jakobzhao/geog428  
+- **Institution:** University of Washington  
+- **Instructor:** Bo Zhao  
+- **Category:** GeoAI / Courses / External  
+
+**Core Topics**
+- Geospatial machine learning and deep learning  
+- Large language models (LLMs) for spatial analysis  
+- Spatial justice, ethics, and algorithmic bias  
+- Urban, social, and environmental GeoAI applications  
+
+**Tech Stack**
+- Python, Jupyter Notebook  
+- GIS libraries, ML/DL frameworks  
+- GitHub Pages / GitHub Classroom  
+
+**Target Audience**
+- Graduate students and advanced undergraduates  
+- Researchers interested in GeoAI and spatial intelligence  
+
+**License**
+- LGPL-2.1 (repository)
 
 ---
-
 ### 🌐 External & Community Tutorials
 
 *(To be expanded — add external tutorials with attribution and license compliance)*
